@@ -1,0 +1,27 @@
+@charset "utf-8"; /* 인코딩 방식 지정 */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul, ol, li {
+    list-style-type: none;
+}
+a {
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+strong {
+    display: block;
+}
+address {
+    font-style: normal;
+}
+p {
+    line-height: 1.8;
+}
